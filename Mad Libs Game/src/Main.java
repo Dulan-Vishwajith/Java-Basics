@@ -29,5 +29,7 @@ public class Main {
         System.out.println("In an exhibit ,I saw a "+noun1+".");
         System.out.println(noun1+" was "+adj2+" and "+verb1+"!");
         System.out.println("I was "+adj3+"!");
+
+        input.close();
     }
 }
