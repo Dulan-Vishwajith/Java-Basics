@@ -26,6 +26,8 @@ public class Main {
         System.out.println("Your total is "+currency+" "+total);
 
 
+
+
         input.close();
     }
 }
