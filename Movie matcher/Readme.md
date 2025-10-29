@@ -1,4 +1,4 @@
-\# Movie Matcher
+# Movie Matcher
 
 
 
@@ -6,7 +6,7 @@ A Java console-based application that compares movie details with a user's viewi
 
 
 
-\## Features
+## Features
 
 
 
@@ -22,7 +22,7 @@ A Java console-based application that compares movie details with a user's viewi
 
 
 
-\## Concepts Used
+## Concepts Used
 
 
 
@@ -38,7 +38,7 @@ A Java console-based application that compares movie details with a user's viewi
 
 
 
-\## Tools \& Technologies
+## Tools \& Technologies
 
 
 
@@ -50,7 +50,7 @@ A Java console-based application that compares movie details with a user's viewi
 
 
 
-\## Goal
+## Goal
 
 
 
